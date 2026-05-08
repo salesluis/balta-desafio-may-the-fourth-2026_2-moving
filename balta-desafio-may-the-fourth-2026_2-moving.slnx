@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="balta-desafio-may-the-fourth-2026_2-moving.AI/balta-desafio-may-the-fourth-2026_2-moving.AI.csproj" />
+  <Project Path="balta-desafio-may-the-fourth-2026_2-moving.Api/balta-desafio-may-the-fourth-2026_2-moving.Api.csproj" />
+  <Project Path="balta-desafio-may-the-fourth-2026_2-moving.Domain/balta-desafio-may-the-fourth-2026_2-moving.Domain.csproj" />
+  <Project Path="balta-desafio-may-the-fourth-2026_2-moving.Infra/balta-desafio-may-the-fourth-2026_2-moving.Infra.csproj" />
+</Solution>

@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: balta-desafio-may-the-fourth
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: desafio-02-balta
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./balta-desafio-may-the-fourth-2026_2-moving.Infra/InitDb:/docker-entrypoint-initdb.d
+
+volumes:
+  pgdata:

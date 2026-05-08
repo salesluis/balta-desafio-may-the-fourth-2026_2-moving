@@ -1,0 +1,17 @@
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.deps.json
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Domain.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Domain.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.csproj.AssemblyReference.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.AssemblyInfoInputs.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.AssemblyInfo.cs
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.csproj.CoreCompileInputs.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/EFCoreNpgsqlPgvector.cs
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.sourcelink.json
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-de.2413072C.Up2Date
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/refint/balta-desafio-may-the-fourth-2026_2-moving.Infra.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Infra.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.Infra/obj/Debug/net10.0/ref/balta-desafio-may-the-fourth-2026_2-moving.Infra.dll

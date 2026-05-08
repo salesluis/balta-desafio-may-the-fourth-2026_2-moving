@@ -1,0 +1,16 @@
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.deps.json
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Domain.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/bin/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.Domain.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.csproj.AssemblyReference.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.AssemblyInfoInputs.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.AssemblyInfo.cs
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.csproj.CoreCompileInputs.cache
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.sourcelink.json
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-de.11024FBF.Up2Date
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/refint/balta-desafio-may-the-fourth-2026_2-moving.AI.dll
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/balta-desafio-may-the-fourth-2026_2-moving.AI.pdb
+/var/home/salesluis/Developer/Studies/balta-desafio-may-the-fourth-2026_2-moving/balta-desafio-may-the-fourth-2026_2-moving.AI/obj/Debug/net10.0/ref/balta-desafio-may-the-fourth-2026_2-moving.AI.dll

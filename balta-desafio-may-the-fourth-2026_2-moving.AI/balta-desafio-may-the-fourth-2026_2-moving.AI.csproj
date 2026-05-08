@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <RootNamespace>balta_desafio_may_the_fourth_2026_2_moving.AI</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Agents.AI" Version="1.4.0" />
+      <PackageReference Include="Microsoft.Agents.AI.Abstractions" Version="1.4.0" />
+      <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.75.0-alpha" />
+      <PackageReference Include="OllamaSharp" Version="5.4.25" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\balta-desafio-may-the-fourth-2026_2-moving.Domain\balta-desafio-may-the-fourth-2026_2-moving.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

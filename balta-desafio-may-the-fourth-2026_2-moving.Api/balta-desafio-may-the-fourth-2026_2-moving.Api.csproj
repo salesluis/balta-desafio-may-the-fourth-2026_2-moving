@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>balta_desafio_may_the_fourth_2026_2_moving.Api</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\balta-desafio-may-the-fourth-2026_2-moving.AI\balta-desafio-may-the-fourth-2026_2-moving.AI.csproj" />
+      <ProjectReference Include="..\balta-desafio-may-the-fourth-2026_2-moving.Domain\balta-desafio-may-the-fourth-2026_2-moving.Domain.csproj" />
+      <ProjectReference Include="..\balta-desafio-may-the-fourth-2026_2-moving.Infra\balta-desafio-may-the-fourth-2026_2-moving.Infra.csproj" />
+    </ItemGroup>
+
+</Project>

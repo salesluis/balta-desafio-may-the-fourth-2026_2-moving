@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "balta-desafio-may-the-fourth-2026_2-moving.Domain/1.0.0": {
+        "runtime": {
+          "balta-desafio-may-the-fourth-2026_2-moving.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "balta-desafio-may-the-fourth-2026_2-moving.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@balta_desafio_may_the_fourth_2026_2_moving.Api_HostAddress = http://localhost:5188
+
+POST {{balta_desafio_may_the_fourth_2026_2_moving.Api_HostAddress}}/v1/prompt
+Accept: application/json
+
+###
